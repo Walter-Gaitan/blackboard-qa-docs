@@ -1,3 +1,8 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+
+title: Blackboard QA Docs
+description: Documentation for Blackboard QA processes
+url: "https://walter-gaitan.github.io"
+baseurl: "/blackboard-qa-docs"
