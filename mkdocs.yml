@@ -27,6 +27,7 @@ nav:
   - Home: index.md
   - Onboarding:
       - QA Guide: QA_Onboarding_Guide.md
+      - TQA Advice: tqa_advice.md
   - Reference:
       - QA Protocols: qa_protocols.md
       - Checklists:

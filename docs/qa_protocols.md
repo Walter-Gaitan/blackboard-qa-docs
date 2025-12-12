@@ -73,6 +73,7 @@
 2.  **Directions use complete sentences**.
 3.  **All links work, open in separate tabs**.
 4.  **Due dates match syllabus** (Exception: Medical Science).
+
 5.  **Rubrics visible, match syllabus, descending order**.
 6.  **Release conditions align with syllabus**.
 7.  **Be concise**.

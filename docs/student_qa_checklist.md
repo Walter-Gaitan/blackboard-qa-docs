@@ -20,8 +20,8 @@
 - [ ] **Visibility**: All learning modules are set to "Visible to students".
 - [ ] **Release Conditions**: Verify any conditional releases are set up correctly.
 - [ ] **Tabs**:
-    - [ ] **Discussions**: Topics follow a logical order.
-    - [ ] **Gradebook**: Columns are organized logically.
+    - [ ] **Discussions**: Topics follow a sequential order (e.g., "Introductions" -> "Module 1" -> "Module 2"...).
+    - [ ] **Gradebook**: Columns are organized chronologically (by due date) or sequentially (Module 1 -> Module 15).
     - [ ] **Groups**: Self-enrollment groups are set up (if applicable).
 
 ## 3. Content Checks (Assignments, Discussions, Tests, Journals)

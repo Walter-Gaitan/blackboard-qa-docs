@@ -82,9 +82,9 @@
 
 ## Page 9: Blackboard Tabs
 38. **Discussions Tab Order** (Radio)
-    - "Discussions follow a logical order..."
+    - "Discussions follow a sequential order (e.g., Module 1 -> Module 15)."
 39. **Gradebook Order** (Radio)
-    - "Gradebook items are organized in a logical order..."
+    - "Gradebook items are organized chronologically or sequentially (Module 1 -> Module 15)."
 40. **Groups Tab** (Radio)
     - "Groups are set up as indicated above."
 
